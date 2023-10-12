@@ -1,0 +1,43 @@
+.square{
+    height: 750px;
+    width: 600px ;
+    background-image: url(https://i.pinimg.com/1200x/47/25/ef/4725efa3141943edb3854f1433f66922.jpg);
+    margin: 9%;
+    border: 50px;
+    border-width: 5px;
+    
+    border-image: 1%;
+     align-items: center;
+}
+
+
+.square2{
+    position: absolute;
+    bottom: -11%;
+    width: 600px;
+    height: 200px;
+    border: 1px  rgba(83, 45, 32, 0.497);
+    background-color: #c66464a4;
+    
+
+}
+
+.q{
+    text-align: center;
+    color: #1a4e00;
+}
+
+.qwerr{
+    width: 580px;
+    height: 170px;
+    border: 3px solid rgb(255, 254, 253) ;
+    margin: 2%;
+    height: 15px 25px;
+    margin-left: 1%;
+   
+}
+
+.ooo{
+    text-align: center;
+    color: #ffffff;
+}
